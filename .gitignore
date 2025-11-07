@@ -1,0 +1,13 @@
+# .gitignore
+
+# Entorno Virtual de Python
+venv/
+__pycache__/
+
+# Archivos de Next.js/Node (Si es que quedan de pruebas anteriores)
+node_modules/
+.next/
+
+# Archivos de Entorno (¡CRUCIAL PARA LA SEGURIDAD!)
+.env
+.env.local
